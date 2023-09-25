@@ -1,0 +1,14 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+requirements.txt
+setup.py
+src/Package_Name_iuhsdaa.egg-info/PKG-INFO
+src/Package_Name_iuhsdaa.egg-info/SOURCES.txt
+src/Package_Name_iuhsdaa.egg-info/dependency_links.txt
+src/Package_Name_iuhsdaa.egg-info/requires.txt
+src/Package_Name_iuhsdaa.egg-info/top_level.txt
+src/package_name/Modul_1.py
+src/package_name/Modul_2.py
+src/package_name/__init__.py

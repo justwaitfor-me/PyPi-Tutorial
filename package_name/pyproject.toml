@@ -1,0 +1,47 @@
+[build-system]
+requires = ["setuptools>=61.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "Package_Name_iuhsdaa"
+version = "0.0.2"
+description = "A package that allows to decode and encode code."
+readme = "README.md"
+authors = [{ name = "JustWait", email = "justwaitnano@gmail.com" }]
+license = { file = "LICENSE" }
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Operating System :: OS Independent",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+	"Intended Audience :: Developers",
+	"Natural Language :: English",
+]
+keywords = ["Decode Things", 
+	    "decode", 
+	    "decoding",
+	    "decode_things",
+	    "code",
+	    "hex",
+	    "bin",
+	    "binary",
+	    "url",
+	    "object",
+	    "python",
+	    "decode url",
+		"pypi",
+		"encode",
+		"encodeing"
+	    ]
+dynamic = ["dependencies"]
+requires-python = ">=3.5"
+
+[tool.setuptools.dynamic]
+dependencies = {file = ["requirements.txt"]}
+
+[project.urls]
+Homepage = "https://github.com/justwaitfor-me/moon/"
+
+
+
