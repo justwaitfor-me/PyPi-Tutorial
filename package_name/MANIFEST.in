@@ -1,2 +1,2 @@
-include decode_things/*
-include decode_things/tools/*.json
+include package_name/*
+include package_name/*.json
