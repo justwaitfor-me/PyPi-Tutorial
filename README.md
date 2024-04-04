@@ -1,81 +1,4 @@
-<html>
-
-<head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <meta http-equiv="Content-Style-Type" content="text/css" />
-    <meta name="generator" content="Aspose.Words for .NET 24.3.0" />
-    <title></title>
-    <style type="text/css">
-        body {
-            font-family: Calibri;
-            font-size: 11pt
-        }
-
-        h1,
-        h2,
-        h4,
-        p {
-            margin: 0pt 0pt 8pt
-        }
-
-        h1 {
-            margin-top: 12pt;
-            margin-bottom: 3pt;
-            page-break-after: avoid;
-            font-family: Arial;
-            font-size: 16pt;
-            font-weight: bold
-        }
-
-        h2 {
-            margin-top: 12pt;
-            margin-bottom: 3pt;
-            page-break-after: avoid;
-            font-family: Arial;
-            font-size: 14pt;
-            font-weight: bold;
-            font-style: italic
-        }
-
-        h4 {
-            margin-top: 12pt;
-            margin-bottom: 3pt;
-            page-break-after: avoid;
-            font-size: 14pt;
-            font-weight: bold
-        }
-
-        .FencedCode {
-            margin-bottom: 8pt;
-            font-family: Consolas;
-            font-size: 10pt;
-            background-color: #e2e2e2
-        }
-
-        .IndentedCode {
-            margin-bottom: 8pt;
-            font-family: Consolas;
-            font-size: 10pt;
-            background-color: #e2e2e2
-        }
-
-        span.Hyperlink {
-            text-decoration: underline;
-            color: #0000ff;
-            -aw-style-name: hyperlink
-        }
-
-        span.InlineCode2 {
-            font-family: Consolas;
-            font-size: 10pt;
-            color: #c7254e;
-            background-color: #f9f2f4
-        }
-    </style>
-</head>
-
-<body>
-    <div>
+<div>
         <h1><span style="font-weight:normal">How to upload a Python package to Pypi?</span></h1>
         <div style="display: flex; align-items: center;">
             <p>
@@ -199,6 +122,4 @@
         <p><span>To install the new Version:</span></p>
         <p class="FencedCode"><span>pip uninstall Package_Name</span><br /><span>pip install Package_Name</span></p>
     </div>
-</body>
 
-</html>
