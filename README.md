@@ -56,7 +56,7 @@
         </p>
         <p><span>It should look like this:</span></p>
         <p><a href="https://iili.io/JJS1lRI.png" style="text-decoration:none"><img
-                    src="images/Aspose.Words.84ff4c03-616d-4aac-b6a5-47737d38c75e.001.png" width="235" height="291"
+                    src="https://raw.githubusercontent.com/justwaitfor-me/PyPi-Tutorial/main/images/Aspose.Words.84ff4c03-616d-4aac-b6a5-47737d38c75e.001.png" width="235" height="291"
                     alt="Data.png"
                     style="border-style:none; -aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline" /></a>
         </p>
@@ -68,13 +68,13 @@
         <h4><span style="font-weight:normal">1. install the Package locally:</span></h4>
         <p class="FencedCode"><span>cd [package_name]</span><br /><span>pip install .</span></p>
         <p><a href="https://iili.io/JJSwbLB.png" style="text-decoration:none"><img
-                    src="images/Aspose.Words.84ff4c03-616d-4aac-b6a5-47737d38c75e.002.png" width="1598" height="514"
+                    src="https://raw.githubusercontent.com/justwaitfor-me/PyPi-Tutorial/main/images/Aspose.Words.84ff4c03-616d-4aac-b6a5-47737d38c75e.002.png" width="1598" height="514"
                     alt="JJSwbLB.md.png"
                     style="border-style:none; -aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline" /></a>
         </p>
         <p><span>Now your Repo should look like this:</span></p>
         <p><a href="https://iili.io/JJSNKIR.png" style="text-decoration:none"><img
-                    src="images/Aspose.Words.84ff4c03-616d-4aac-b6a5-47737d38c75e.003.png" width="246" height="537"
+                    src="https://raw.githubusercontent.com/justwaitfor-me/PyPi-Tutorial/main/images/Aspose.Words.84ff4c03-616d-4aac-b6a5-47737d38c75e.003.png" width="246" height="537"
                     alt="JJSNKIR.png"
                     style="border-style:none; -aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline" /></a>
         </p>
@@ -88,7 +88,7 @@
                 Package_Name-0.0.1-py3-none-any.whl</span></p>
         <p><span>Now you should have the /dist direcory:</span></p>
         <p><a href="https://iili.io/JJSPva4.png" style="text-decoration:none"><img
-                    src="images/Aspose.Words.84ff4c03-616d-4aac-b6a5-47737d38c75e.004.png" width="252" height="641"
+                    src="https://raw.githubusercontent.com/justwaitfor-me/PyPi-Tutorial/main/images/Aspose.Words.84ff4c03-616d-4aac-b6a5-47737d38c75e.004.png" width="252" height="641"
                     alt="JJSPva4.png"
                     style="border-style:none; -aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline" /></a>
         </p>
@@ -101,7 +101,7 @@
         <p><span>Username = </span><span class="InlineCode2">__token__</span></p>
         <p><span>Password = </span><span class="InlineCode2">[your Token]</span></p>
         <p><a href="https://iili.io/JJSLU9R.md.png" style="text-decoration:none"><img
-                    src="images/Aspose.Words.84ff4c03-616d-4aac-b6a5-47737d38c75e.005.png" width="667" height="207"
+                    src="https://raw.githubusercontent.com/justwaitfor-me/PyPi-Tutorial/main/images/Aspose.Words.84ff4c03-616d-4aac-b6a5-47737d38c75e.005.png" width="667" height="207"
                     alt="JJSLU9R.md.png"
                     style="border-style:none; -aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline" /></a>
         </p>
@@ -115,7 +115,7 @@
         <p class="FencedCode"><span>python -m build</span><br /><span>python -m twine upload --skip-existing
                 dist/*</span></p>
         <p><a href="https://iili.io/JJSml6P.md.png" style="text-decoration:none"><img
-                    src="images/Aspose.Words.84ff4c03-616d-4aac-b6a5-47737d38c75e.006.png" width="667" height="187"
+                    src="https://raw.githubusercontent.com/justwaitfor-me/PyPi-Tutorial/main/images/Aspose.Words.84ff4c03-616d-4aac-b6a5-47737d38c75e.006.png" width="667" height="187"
                     alt="JJSml6P.md.png"
                     style="border-style:none; -aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline" /></a>
         </p>
